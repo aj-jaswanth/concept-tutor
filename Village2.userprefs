@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainMenuScript.js">
+    <Files>
+      <File FileName="Assets\FlippingEconomySceneScript.js" Line="1" Column="1" />
+      <File FileName="Assets\BridgeMCQSceneScript.js" Line="162" Column="28" />
+      <File FileName="Assets\MainMenuScript.js" Line="210" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

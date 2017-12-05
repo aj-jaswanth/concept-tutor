@@ -1,0 +1,52 @@
+<questions>
+	<tnoq>5</tnoq>
+	<question>
+		<q>Today the Sarpanch is out of town, so today the Garm Sabha will be chaired by</q>
+		<tnopt>4</tnopt>
+		<opt>Upsarpanch</opt>
+		<opt>Gram Sevak</opt>
+		<opt>Panch</opt>
+		<opt>Villagers</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>The state government   maintains the records of the gram sabha proceedings in order to understand the difficulties of the villages and to ensure fair functioning of the gram sabha. The traditional way is to write down the minutes, with the technological advancement we also need to</q>
+		<tnopt>4</tnopt>
+		<opt>Create video recordings</opt>
+		<opt>Demonstrate through role play in front of the state government officers</opt>
+		<opt>Call state government officers for the meeting</opt>
+		<opt>Create a folk song</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>The village has  decided to build a bridge over the river to create better connectivity. This was  a very wise decision taken up by the</q>
+		<tnopt>4</tnopt>
+		<opt>Gram Panchayat</opt>
+		<opt>Villagers</opt>
+		<opt>School</opt>
+		<opt>Panch</opt>
+		<ans>1</ans>
+	</question>
+	
+	<question>
+		<q>The village has  decided to build a bridge over the river to create better connectivity. This was  a very wise decision taken up by the </q>
+		<tnopt>4</tnopt>
+		<opt>Government Schemes</opt>
+		<opt>Collection of more taxes</opt>
+		<opt>Community donations</opt>
+		<opt>Taking loans</opt>
+		<ans>1</ans>
+	</question>
+		
+	<question>
+		<q>The project to construct the bridge is over, now I should create the report and send it to</opt>
+		<tnopt>4</tnopt>
+		<opt>Gram Panchayat and State Government</opt>
+		<opt>State government only</opt>
+		<opt>Gram Panchayat</opt>
+		<opt>Keep it with myself</opt>
+		<ans>1</ans>
+	</question>
+</questions>

@@ -1,0 +1,1 @@
+﻿var locked = 0;

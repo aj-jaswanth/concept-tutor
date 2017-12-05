@@ -1,0 +1,52 @@
+<questions>
+	<tnoq>5</tnoq>
+	<question>
+		<q>The village is facing water shortage problem. I need to do something. What should I do first?</q>
+		<tnopt>4</tnopt>
+		<opt>Discuss this issue in  Gram Sabha and find out a solution</opt>
+		<opt>Leave the village for sometime</opt>
+		<opt>Ask the villagers to relocate the villagers</opt>
+		<opt>Wait for the rains to come and situation to improve</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>The villagers are facing the water problem for several days now. This happens for several days now. This happens every summer. As a Surpanch, I should</q>
+		<tnopt>4</tnopt>
+		<opt>Listen and understand the problems of the villagers</opt>
+		<opt>discourage villagers to share their problems</opt>
+		<opt>leave the Gram Sabha immediately</opt>
+		<opt>should ignore this issue</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>During the Gram Sabha the villagers have shared their problems. The Panchayat members have came up with many possible solutions. Of these the best permanent solution is to </q>
+		<tnopt>4</tnopt>
+		<opt>Construct a water shed for rain water harvesting</opt>
+		<opt>Relocate the  villagers for sometime</opt>
+		<opt>Wait for the rains to come</opt>
+		<opt>Call for a water tanker for the Zamindars only</opt>
+		<ans>1</ans>
+	</question>
+	
+	<question>
+		<q>Our village is going to receive some grants from the government for constructing the watershed. Soon the construction work will begin. As a Sarpanch. I should</q>
+		<tnopt>4</tnopt>
+		<opt>make provision for water supply for my family</opt>
+		<opt>Ensure fair distribution of water supply to all the villagers</opt>
+		<opt>Collect more taxes on water</opt>
+		<opt>Provide water supply to my ward only</opt>
+		<ans>2</ans>
+	</question>
+		
+	<question>
+		<q>The villagers will now have sufficient water for their domestic and agricultural needs. Villagers need to be updated about the maintenance and the importance of the watershed. The person to do this is ….</q>
+		<tnopt>4</tnopt>
+		<opt>Gram Sevak</opt>
+		<opt>Panch</opt>
+		<opt>Workers</opt>
+		<opt>Villagers</opt>
+		<ans>1</ans>
+	</question>
+</questions>

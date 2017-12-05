@@ -1,0 +1,52 @@
+<questions>
+	<tnoq>5</tnoq>
+	<question>
+		<q>The village is facing water shortage problem. I need to do something. What should I do first?</q>
+		<tnopt>4</tnopt>
+		<opt>Discuss this issue in  Gram Sabha and find out a solution</opt>
+		<opt>Leave the village for sometime</opt>
+		<opt>Ask the villagers to relocate the  villagers</opt>
+		<opt>Wait for the rains to come and situation</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>. The villagers were very upset because of the water shortage; there was a lot of agitation too. As a Punch, I should</q>
+		<tnopt>4</tnopt>
+		<opt>Listen and understand the problems of the villagers</opt>
+		<opt>Discourage  villagers to share their problems</opt>
+		<opt>Leave the gram sabha immediately</opt>
+		<opt>Should ignore this issue</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>The problems of the villagers are serious.  We need to solve this issue. There were many suggestions given by Villagers and Gram Sevak, I can recollect some of the suggestions, that I liked the most, which of these  should I suggest to the Sarpanch I should think of  a permanent  and economical solution.</q>
+		<tnopt>4</tnopt>
+		<opt>Construct a water shed for rain water harvesting</opt>
+		<opt>Relocate villagers for some time</opt>
+		<opt>Wait for the rains to come</opt>
+		<opt>Call for a  water tanker for the Zamindars only</opt>
+		<ans>1</ans>
+	</question>
+	
+	<question>
+		<q>Our village is going to receive some grants from the government for constructing the watershed. This will solve the water shortage problem to a very large extend. The water shed will be constructed in  the ward from which I am nominated, as a Punch, I should</q>
+		<tnopt>4</tnopt>
+		<opt>make provision for water supply for my family</opt>
+		<opt>Ensure fair distribution of water supply to all the villager</opt>
+		<opt>Collect  more taxes on  water</opt>
+		<opt>Provide water supply to my ward only</opt>
+		<ans>2</ans>
+	</question>
+	
+	<question>
+		<q>The village watershed is ready, all of us are excited. Now the villagers will have sufficient water. They should use this water judiciously</q>
+		<tnopt>4</tnopt>
+		<opt>agriculture</opt>
+		<opt>playing</opt>
+		<opt>filling up the swimming pools</opt>
+		<opt>Fish Farming</opt>
+		<ans>1</ans>
+	</question>
+</questions>

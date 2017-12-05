@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{DB311985-2AD2-D436-AC42-0868962BA404}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Attributes.js" />
+     <Compile Include="Assets\BottomBar.js" />
+     <Compile Include="Assets\BottomBar2.js" />
+     <Compile Include="Assets\BridgeIntroSceneScript.js" />
+     <Compile Include="Assets\BridgeMCQSceneScript.js" />
+     <Compile Include="Assets\BridgeRoleSceneScript.js" />
+     <Compile Include="Assets\CreateVillage1Script.js" />
+     <Compile Include="Assets\ElectionLevel1Script.js" />
+     <Compile Include="Assets\ElectionLevel2Script.js" />
+     <Compile Include="Assets\ElectionLevel3RandomizationScript.js" />
+     <Compile Include="Assets\ElectionLevel3SceneDriverScript.js" />
+     <Compile Include="Assets\ElectionLevel3SceneInitScript.js" />
+     <Compile Include="Assets\ElectionLevel4Script.js" />
+     <Compile Include="Assets\ElectionLevel5SceneScript.js" />
+     <Compile Include="Assets\ElectricityBlankAttribute.js" />
+     <Compile Include="Assets\ElectricityIntroSceneScript.js" />
+     <Compile Include="Assets\ElectricityJumbleSceneScript.js" />
+     <Compile Include="Assets\ElectricityLettersAttribute.js" />
+     <Compile Include="Assets\ElectricityRoleSceneScript.js" />
+     <Compile Include="Assets\FileParser.js" />
+     <Compile Include="Assets\FlippingEconomySceneScript.js" />
+     <Compile Include="Assets\FlippingEducationScript.js" />
+     <Compile Include="Assets\FlippingHealthScript.js" />
+     <Compile Include="Assets\IntroSceneScript.js" />
+     <Compile Include="Assets\MainMenuItemObject.js" />
+     <Compile Include="Assets\MainMenuScript.js" />
+     <Compile Include="Assets\MatchingInitSceneScript.js" />
+     <Compile Include="Assets\PersonInfo.js" />
+     <Compile Include="Assets\PersonObject.js" />
+     <Compile Include="Assets\SceneDriver.js" />
+     <Compile Include="Assets\SceneManager.js" />
+     <Compile Include="Assets\StartSceneScript.js" />
+     <Compile Include="Assets\VilageNonDragComponent.js" />
+     <Compile Include="Assets\VillageBackgroundScript.js" />
+     <Compile Include="Assets\VillageComponent.js" />
+     <Compile Include="Assets\VillageDragComponent.js" />
+     <Compile Include="Assets\VillageObject.js" />
+     <Compile Include="Assets\WaterIntroSceneScript.js" />
+     <Compile Include="Assets\WaterMCQSceneScript.js" />
+     <Compile Include="Assets\WaterRoleSceneScript.js" />
+     <Compile Include="Assets\XMLNode.js" />
+     <Compile Include="Assets\XMLNodeList.js" />
+     <Compile Include="Assets\XMLParser.js" />
+     <None Include="Assets\Resources\village_components.xml" />
+     <None Include="Assets\Resources\water_sarpanch.xml" />
+     <None Include="Assets\Resources\water_panch.xml" />
+     <None Include="Assets\Resources\electricity_intro.xml" />
+     <None Include="Assets\Resources\bridge_panch.xml" />
+     <None Include="Assets\Resources\electricity_panch.xml" />
+     <None Include="Assets\Resources\waste_management.xml" />
+     <None Include="Assets\Resources\record_maintenance.xml" />
+     <None Include="Assets\Resources\water_sevak.xml" />
+     <None Include="Assets\Resources\environment_protection.xml" />
+     <None Include="Assets\Resources\electricity_sevak.xml" />
+     <None Include="Assets\Resources\electricity_sarpanch.xml" />
+     <None Include="Assets\Editor\Doxygen\Resources\BaseDoxyfile.txt" />
+     <None Include="Assets\Editor\Doxygen\ReadMe.txt" />
+     <None Include="Assets\Resources\bridge_sarpanch.xml" />
+     <None Include="Assets\Resources\bridge_sevak.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

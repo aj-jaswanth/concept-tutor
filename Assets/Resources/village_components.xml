@@ -1,0 +1,37 @@
+<village_components>
+	<non_drag_to_draw>
+		<item>
+			<name>House</name>
+			<image>house</image>
+			<icon>house_icon</icon>
+		</item>
+		<item>
+			<name>Tree</name>
+			<image>tree</image>
+			<icon>tree_icon</icon>
+		</item>
+		<item>
+			<name>Animal</name>
+			<image>animal</image>
+			<icon>animal_icon</icon>
+		</item>
+		<item>
+			<name>Transport</name>
+			<image>transport</image>
+			<icon>transport_icon</icon>
+		</item>
+	</non_drag_to_draw>
+	<drag_to_draw>
+		<item>
+			<name>Road</name>
+			<color>
+				<r>255</r>
+				<g>221</g>
+				<b>28</b>
+				<a>255</a>
+			</color>
+			<icon>road_icon</icon>
+			<width>0.2</width>
+		</item>
+	</drag_to_draw>
+</village_components>

@@ -1,0 +1,29 @@
+<questions>
+	<tnoq>5</tnoq>
+	<roles>
+		<role>volunteers</role>
+		<role>gram_panchayat</role>
+		<role>sevak</role>
+		<role>gram_sabha</role>
+	</roles>
+	<question>
+		<q>Collecting the data of source of income from each family</q>
+		<ans>volunteers</ans>
+	</question>
+	<question>
+		<q>Explaining the villagers purpose and need for this data</q>
+		<ans>gram_panchayat</ans>
+	</question>
+	<question>
+		<q>Creating the summary of the collected data and identifying the individuals falling under BPL</q>
+		<ans>sevak</ans>
+	</question>
+	<question>
+		<q>Sharing the list with the villagers and making changes, ensuring that all the names are included</q>
+		<ans>gram_sabha</ans>
+	</question>
+	<question>
+		<q>Finalizing the list and providing help to deserving people in terms of subsidaries</q>
+		<ans>gram_panchayat</ans>
+	</question>
+</questions>

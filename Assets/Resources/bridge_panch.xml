@@ -1,0 +1,52 @@
+<questions>
+	<tnoq>5</tnoq>
+	<question>
+		<q>The sarpanch is out of station today.  Whom should I   meet and the update the  about the issues of my ward in advance</q>
+		<tnopt>4</tnopt>
+		<opt>Upsarpanch</opt>
+		<opt>Gram Sevak</opt>
+		<opt>Panch</opt>
+		<opt>Villagers</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>The gram sabha is going to discuss about the new construction in the village for better connectivity of the village with the town. I should get the issue solved by representing my wards difficulties in the</q>
+		<tnopt>4</tnopt>
+		<opt>Gram Sabha</opt>
+		<opt>Village Fairs</opt>
+		<opt>Gram sevak office</opt>
+		<opt>School</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>We will require a huge fund to build the bridge. I guess, we can generate a fraction of it, but we will still need a funding body. I will be able to get exact information about the schemes and funds from</q>
+		<tnopt>4</tnopt>
+		<opt>Gram Sevak</opt>
+		<opt>Teachers</opt>
+		<opt>Contractors</opt>
+		<opt>Panch</opt>
+		<ans>1</ans>
+	</question>
+	
+	<question>
+		<q>To build the bridge they will need lots of fund. The village does not have enough funds nor are the villagers very rich. We should try to  get the fund through</q>
+		<tnopt>4</tnopt>
+		<opt>Government Schemes</opt>
+		<opt>Collection of more taxes</opt>
+		<opt>Community donations</opt>
+		<opt>Taking loans</opt>
+		<ans>2</ans>
+	</question>
+	
+	<question>
+		<q>With the better connectivity between the town and the village the business in the village will also grow. The motor vehicles will be able to reach the town market on time and the villagers will be able sell their crops in the market at the right price. The bridge can help the village</q>
+		<tnopt>4</tnopt>
+		<opt>In its economy prosperity</opt>
+		<opt>In making more friends in town</opt>
+		<opt>To add one more resource</opt>
+		<opt>Collecting more water</opt>
+		<ans>1</ans>
+	</question>
+</questions>

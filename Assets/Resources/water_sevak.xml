@@ -1,0 +1,51 @@
+<questions>
+	<tnoq>5</tnoq>
+	<question>
+		<q>The village is facing water shortage problem. I need to do something. What should I do first?</q>
+		<tnopt>4</tnopt>
+		<opt>Discuss this issue in  Gram Sabha and find out a solution</opt>
+		<opt>Leave the village for sometime</opt>
+		<opt>Ask the villagers to relocate the  village</opt>
+		<opt>Wait for the rains to come and situation to improve</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>Today in the Gram Sabha we will be discussing about the water shortage problem. As a Gram Sevak, I should</q>
+		<tnopt>4</tnopt>
+		<opt>maintain a record of the proceedings</opt>
+		<opt>Read out a Story book to the villagers</opt>
+		<opt>Play loud music</opt>
+		<opt>Not attend the meeting</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>The water shortage has disturbed the entire village life. The Panchayat members have called me for a meeting. As a Gram Sevak I should ….</q>
+		<tnopt>3</tnopt>
+		<opt>Update them about the relevant government schemes </opt>
+		<opt>Wait for rains to come</opt>
+		<opt>Start digging the ground in search of water</opt>
+		<ans>1</ans>
+	</question>
+	
+	<question>
+		<q>Our village is going to receive some grants from the government for constructing the watershed. Soon the construction work will begin. As a Gram Sevak, . I should</q>
+		<tnopt>4</tnopt>
+		<opt>conduct a drive on water conservation to educate villagers</opt>
+		<opt>go for a vacation</opt>
+		<opt>ensure that the water  is well distribute amongst all  the zamidars</opt>
+		<opt>sell the conserved water to industries outside the village</opt>
+		<ans>1</ans>
+	</question>
+		
+	<question>
+		<q>The village watershed is ready, all of us are excited. Now the  villagers will be able to fulfill their domestic and agricultural needs As a Gram Sevak , I will be</opt>
+		<tnopt>4</tnopt>
+		<opt>submitting a report  to the Gram Panchayat  and State Government</opt>
+		<opt>Counting the number of villagers  for water distribution</opt>
+		<opt>Stopping the villagers from using the water from the  watershed</opt>
+		<opt>Earning  money by selling the water</opt>
+		<ans>1</ans>
+	</question>
+</questions>

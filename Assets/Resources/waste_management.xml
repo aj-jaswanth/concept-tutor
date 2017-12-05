@@ -1,0 +1,29 @@
+<questions>
+	<tnoq>5</tnoq>
+	<roles>
+		<role>sarpanch</role>
+		<role>sevak</role>
+		<role>panch</role>
+		<role>up-sarpanch</role>
+	</roles>
+	<question>
+		<q>Discuss the need and importance of biogas plant in the gram sabha</q>
+		<ans>sarpanch</ans>
+	</question>
+	<question>
+		<q>Encouraging the villagers in the wards to set up	the biogas plant</q>
+		<ans>panch</ans>
+	</question>
+	<question>
+		<q>Educating villagers about the segregation of wet and dry garbage and making them aware about the benefits of biogas</q>
+		<ans>sevak</ans>
+	</question>
+	<question>
+		<q>Giving permission to set up the biogas plant in the wards</q>
+		<ans>panch</ans>
+	</question>
+	<question>
+		<q>Organizing camps to train the villagers in maintaining the biogas plant</q>
+		<ans>sevak</ans>
+	</question>
+</questions>

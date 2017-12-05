@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SceneDriver.js">
+    <Files>
+      <File FileName="Assets\ElectionLevel5SceneScript.js" Line="182" Column="7" />
+      <File FileName="Assets\SceneManager.js" Line="103" Column="29" />
+      <File FileName="Assets\SceneDriver.js" Line="146" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,29 @@
+<questions>
+	<tnoq>5</tnoq>
+	<roles>
+		<role>sarpanch</role>
+		<role>sevak</role>
+		<role>panch</role>
+		<role>up-sarpanch</role>
+	</roles>
+	<question>
+		<q>Request for the renewal of the license</q>
+		<ans>sarpanch</ans>
+	</question>
+	<question>
+		<q>Pay the penalty and taxes for polluting the water</q>
+		<ans>sevak</ans>
+	</question>
+	<question>
+		<q>Get the new guidelines for waste water treatment</q>
+		<ans>sevak</ans>
+	</question>
+	<question>
+		<q>Submit the compliance report</q>
+		<ans>panch</ans>
+	</question>
+	<question>
+		<q>Issue the certificate, after the assurance</q>
+		<ans>sarpanch</ans>
+	</question>
+</questions>

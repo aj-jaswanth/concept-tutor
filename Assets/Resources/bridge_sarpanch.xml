@@ -1,0 +1,52 @@
+<questions>
+	<tnoq>5</tnoq>
+	<question>
+		<q>The Sarpanch had gone out of town for some personal work. He can't reach Gram Sabha in time. So today the meeting will be chaired by</q>
+		<tnopt>4</tnopt>
+		<opt>Upsarpanch</opt>
+		<opt>Gram Sevak</opt>
+		<opt>Panch</opt>
+		<opt>Villagers</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>Let me find out what are the major issues which we are going to discuss today. Please help me search the file with the correct label</q>
+		<tnopt>4</tnopt>
+		<opt>Agenda for Upcoming Gram Sabha Meeting </opt>
+		<opt>List of schools ixn the village</opt>
+		<opt>Income Tax</opt>
+		<opt>Loan Details</opt>
+		<ans>1</ans>
+	</question>
+
+	<question>
+		<q>The bridge will provide us with better connectivity with the town. I should find out more about the fund available throught the government schemes. Let me contact</q>
+		<tnopt>4</tnopt>
+		<opt>Newspaper office</opt>
+		<opt>Gram Sevak</opt>
+		<opt>Panch</opt>
+		<opt>Police Station</opt>
+		<ans>1</ans>
+	</question>
+	
+	<question>
+		<q>To overcome all these problems the village has decided to construct a bridge over the river. This proposal should have been passed in the</q>
+		<tnopt>4</tnopt>
+		<opt>Gram Sabha</opt>
+		<opt>Discussion between a few villagers</opt>
+		<opt>Gram Sevak office</opt>
+		<opt>The village school</opt>
+		<ans>1</ans>
+	</question>
+		
+	<question>
+		<q>All the issues are discussed and the meeting is coming to an end, but still villagers are not looking satisfied.  I guess, they still want to say something. What should I do?</q>
+		<tnopt>4</tnopt>
+		<opt>Encourage the villagers to speak up</opt>
+		<opt>Ignore it</opt>
+		<opt>Ask the villagers not to make noise</opt>
+		<opt>Tell them my decision is final and no changes can be made</opt>
+		<ans>1</ans>
+	</question>
+</questions>
